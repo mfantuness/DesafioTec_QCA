@@ -56,7 +56,7 @@ Por padrão, são processados **5 municípios**, escolhidos dinamicamente (os pr
 ```bash
 # 1. Clone o repositório e entre na pasta
 git clone <https://github.com/mfantuness/DesafioTec_QCA.git>
-cd Desafio_QCA
+cd DesafioTec_QCA
 
 # 2. Crie e ative o ambiente virtual
 python -m venv .venv
